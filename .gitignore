@@ -22,3 +22,4 @@ yarn-error.log*
 # Mac system files
 .DS_Store
 MisJuegosApp/src/config/config.js
+.vscode/settings.json
